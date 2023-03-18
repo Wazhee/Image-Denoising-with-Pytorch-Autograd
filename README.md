@@ -5,6 +5,9 @@ Remove noise from an image with pytorch autograd engine. Loss function defined b
 
 # Objective 
 Remove the noise from image (I), smooth the image, with pytorch library.
+number of iterations = 3000
+learning rate = 1
+alpha (regularizer) = 2
 
 Original Image (I):
 
