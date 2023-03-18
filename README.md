@@ -6,7 +6,7 @@ Remove noise from an image with pytorch autograd engine. Loss function defined b
 # Objective 
 Remove the noise from image (I), smooth the image, with pytorch library.
 
-Original Image (I): 
+Original Image (I): \\
 <img width="800" alt="Screenshot 2023-03-17 at 8 58 10 PM" src="https://user-images.githubusercontent.com/34732790/226077351-d84dccbd-bb74-468e-a125-258b60ca3341.png">
 
 Smoothed image with L1 norm (J):
