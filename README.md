@@ -21,3 +21,6 @@ Smoothed image with L1 norm (J):
 Smoothed image with L2 norm (J):
 
 <img width="800" alt="Screenshot 2023-03-17 at 8 59 29 PM" src="https://user-images.githubusercontent.com/34732790/226077381-05640b32-5683-4415-bf22-7e6e86bc5dfd.png">
+
+Ground Truth:
+![parrot](https://user-images.githubusercontent.com/34732790/226709865-2292f342-1b09-4419-a2ab-5b8939e31ffc.png)
