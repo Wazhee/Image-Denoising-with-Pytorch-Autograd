@@ -47,7 +47,7 @@ def denoising_L2_loss(I, J, alpha):
 
 
 def main():
-  img = imageio.imread('/content/drive/MyDrive/Comp 546: Computer Vision/parrot_noisy.png')/255.0
+  img = imageio.imread('/path/to/parrot_noisy.png')/255.0
   I = torch.Tensor(img)
   I = I.to('cuda')
 
